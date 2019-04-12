@@ -1,0 +1,7 @@
+extensions=".c.cpp.h.hpp";
+
+fkey_command_win[4] = {"project metagen", "*metagen*", true};
+fkey_command_win[5] = {"project run", "*run*", true};
+fkey_command_win[6] = {"project run debugger", "*run debugger*", true};
+fkey_command_win[7] = {"project build", "*build*", true};
+fkey_command_win[8] = {"project build release", "*build release*", true};
